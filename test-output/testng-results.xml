@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-01T23:46:42 IST" name="Default suite" finished-at="2024-01-01T23:46:48 IST" duration-ms="6082">
+    <groups>
+    </groups>
+    <test started-at="2024-01-01T23:46:42 IST" name="Default test" finished-at="2024-01-01T23:46:48 IST" duration-ms="6082">
+      <class name="com.bcd.Netbank2.Specific">
+        <test-method is-config="true" signature="CreateReport()[pri:0, instance:com.bcd.Netbank2.Specific@78e4deb0]" started-at="2024-01-01T23:46:42 IST" name="CreateReport" finished-at="2024-01-01T23:46:42 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateReport -->
+        <test-method signature="GetSpecificAccDetails()[pri:0, instance:com.bcd.Netbank2.Specific@78e4deb0]" started-at="2024-01-01T23:46:42 IST" name="GetSpecificAccDetails" finished-at="2024-01-01T23:46:48 IST" duration-ms="5627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSpecificAccDetails -->
+        <test-method is-config="true" signature="push()[pri:0, instance:com.bcd.Netbank2.Specific@78e4deb0]" started-at="2024-01-01T23:46:48 IST" name="push" finished-at="2024-01-01T23:46:48 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- push -->
+      </class> <!-- com.bcd.Netbank2.Specific -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
